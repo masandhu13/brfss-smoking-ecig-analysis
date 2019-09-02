@@ -5,6 +5,8 @@
 The project uses 2017 edition of the CDC's annual behavioral survey on risk factors to
 understand smoking and e-cigarette usage in the US population. 
 
+The final report is present as "Prevalence and Demographics of Smoking and E-cigarettes Use (2017).pdf" in the repository.
+
 We analyze the data to find the prevalence and demographics of smokers and e-cigarette users, and compare and contrast findings between these groups to identify meaningful differences.
 
 The code contains 3 files - 
